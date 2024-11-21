@@ -28,7 +28,8 @@ main {
     color: white;
 }
 #enter:hover{
-    background-color: #2db7f7;
+    background-color: #6caac7;
+    font-size: 35px;
 }
 
 #copy {
