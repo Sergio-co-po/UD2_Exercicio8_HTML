@@ -60,22 +60,23 @@ a:hover{
     color: #F68134;
 }
 a:visited{
-    color: #20aef0;
+    color: #2081f0;
 }
 a:active{
     color: #faa46b;
 }
 
 article{
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     padding: 100px;
+    margin: 0;
     background-color: #6AC5EE;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border-radius: 10%;
+    border-radius: 2%;
 }
 
 footer{
@@ -84,7 +85,4 @@ footer{
     display: flex;
     justify-content: center;
     color: white;
-}
-p{
-    font-size: 15px;
 }
